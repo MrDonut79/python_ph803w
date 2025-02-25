@@ -9,7 +9,7 @@ In desktop mode (running cyclic with lib/main.py) it performs a bit better.
 1. Clone this repo as `ph803w` dir into `$HA_CONFIG_DIR/custom_components/`
    ```
    $ cd custom_components
-   $ git clone git@github.com:dMrDonut79/ph803w.git ./ph803w
+   $ git clone git@github.com:dala318/ph803w.git ./ph803w
    ```
 2. Setup `$HA_CONFIG_DIR/configuration.yaml`
 
