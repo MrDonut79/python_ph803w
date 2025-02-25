@@ -1,3 +1,20 @@
+## For 2 years, this HA integration provided me with reliable values.
+
+## Unfortunately, after an HA update, it stopped working.
+
+## The sensors could no longer be evaluated.
+
+## However, I fixed it with the help of Gabbajoe.
+
+## The sensor.py has been adjusted.
+
+## Thank you very much, Gabbajoe!
+
+---------------------------------------------
+
+## Original text from dala318
+
+
 ![Logo](ph803w.png)
 # python_ph803w
 With a lot of inspiration and help from https://github.com/Apollon77/node-ph803w project I ported the basic functionallity to python with the hope and expectation to deploy it as an Home Assistant intagration without need for a docker service and MQTT.
